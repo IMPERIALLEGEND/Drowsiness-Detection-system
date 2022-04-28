@@ -10,9 +10,10 @@ The main idea behind this project is to develop a non-intrusive system that migh
 <br>
 ## Calculations:
 <p align="center">
-![image](https://user-images.githubusercontent.com/35627981/165679837-d84d0f44-0f52-4588-a660-e8590ded472d.png)<br>
-**Eye Aspect Ratio** is a constant value when the eye is open, but rapidly falls to **0 when the eye is closed.** It is calculated by the given formula.<br>
-![image](https://user-images.githubusercontent.com/35627981/165679849-5c39cce0-b483-4968-8e3a-21f6bac02a33.png)
+            <img src="https://user-images.githubusercontent.com/35627981/165679837-d84d0f44-0f52-4588-a660-e8590ded472d.png" >
+<br>
+          <b>Eye Aspect Ratio</b> is a constant value when the eye is open, but rapidly falls to <b>0 when the eye is closed.</b> It is calculated by the given formula.<br>
+           <img src="https://user-images.githubusercontent.com/35627981/165679849-5c39cce0-b483-4968-8e3a-21f6bac02a33.png" >
 </p>
 <br>
 <br>
