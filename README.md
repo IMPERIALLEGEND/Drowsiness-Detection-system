@@ -18,7 +18,9 @@ The main idea behind this project is to develop a non-intrusive system that migh
 <br>
 
 This project is created to detect drowsiness pf drivers while driving the car. The camera needs be mounted infront of the driver so that it can work properly.
-We can run this program by run the File "MMB_GUI.py"<br><br>
+We can run this program by run the File "MMB_GUI.py"
+<br><br>
+
 ---
 #### REQUIRED MODULES ARE: <br>
           1.python 3.6 <br>
