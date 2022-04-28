@@ -23,8 +23,8 @@ We can run this program by run the File "MMB_GUI.py"
 <br><br>
 
 ---
-#### REQUIRED MODULES ARE: <br>
-          1.python 3.6 <br>
-          2.Tkinter<br>
-          3.pygame<br>
+#### REQUIRED MODULES ARE:
+          1.python 3.6
+          2.Tkinter
+          3.pygame
           4.opencv 3
